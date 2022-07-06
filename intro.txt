@@ -1,2 +1,2 @@
 Hello my name is Dheerendra. I am in Main branch.
-i am in Feature branch.
+I am in feature branch.
